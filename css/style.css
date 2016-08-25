@@ -1,0 +1,35 @@
+*{
+  width: 100%;
+  font-family: 'Montserrat', sans-serif;
+}
+.margencero{
+  margin:0!important;
+}
+hr{
+  width: 10%;
+  border: 3px solid blue;
+}
+.text-blue{
+  color:#190b4f;
+}
+/*HEADER*/
+/*SECCION COMUNICACION*/
+#fondocom{
+  background-image: url(../img/14113822_1135292863176128_390131318_o.jpg);
+}
+.imgnosotras{
+    width: 50%;
+    padding-left: 5%;
+}
+/*ELEMENTOS */
+button{
+  border-style: none;
+  padding: 5% 10%;
+
+}
+#fondoelem{
+  background-color: #e22fc5;
+}
+#fondoazul{
+    background-color: #190b4f;
+}
