@@ -18,14 +18,14 @@ hr{
   background-image: url(../img/14113822_1135292863176128_390131318_o.jpg);
 }
 .imgnosotras{
-    width: 50%;
-    padding-left: 5%;
+    width: 90%;
+    border: 2px solid #190b4f;
 }
 /*ELEMENTOS */
 button{
   border-style: none;
   padding: 5% 10%;
-
+  background-color: #3aa1b4;
 }
 #fondoelem{
   background-color: #e22fc5;
